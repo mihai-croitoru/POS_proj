@@ -1,0 +1,36 @@
+.color-white {
+	color: #FFF;
+}
+
+.color-green {
+	color: #0F0;
+}
+
+.color-torino_red {
+	color: #bf0010;
+}
+.color-formula_red {
+	color: #d30e1f;
+}
+
+.color-l-green {
+	color: #76e50d;
+}
+.color-peterriver {
+	color: #1abc9c;
+}
+
+
+.bg-faded {
+	background-color: rgba(202,215,234,0.3);
+}
+
+
+
+/*Toxic-Green*/
+.color-toxic {
+	color: #3ce74c;
+}
+.bg-toxic {
+	background-color: #3ce74c;
+}

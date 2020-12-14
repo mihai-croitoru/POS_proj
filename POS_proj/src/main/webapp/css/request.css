@@ -1,0 +1,21 @@
+.panel-heading {
+	position: relative;
+	height: 3em;
+}
+
+.request-panel {
+	margin: 10px;
+}
+.request-column {
+	width: 30%;
+}
+table {
+	margin: 20px auto;
+	width: 80%;
+}
+
+.remove-button {
+	position: absolute;
+	right: -12px;
+	top: -7px;
+}

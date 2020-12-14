@@ -1,0 +1,30 @@
+.content{
+width:50%;
+margin:30px auto;
+overflow:hidden;
+
+}
+.content ul li{
+	width:50%;
+	margin: 4% 4% 4% 7%;
+
+}
+.content ul li a img{
+	max-width:100%;
+
+
+}
+li {
+  float: left;
+  width: 25%;
+}
+a {
+  text-decoration: none;
+  text-align: center;
+  display: block;
+  color: #ffcc00;
+
+  font-size: 3em;
+  font-weight: bold;
+
+}
